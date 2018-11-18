@@ -1,5 +1,8 @@
 # Awesome Browser Containers
 
+<img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956959-64.png?modified=70aa6ec0"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956763-64.png?modified=4f5183da"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/996/996764-64.png?modified=59013156"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/977/977492-64.png?modified=619e9177"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1000/1000893-64.png?modified=68523f7c"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1001/1001077-64.png?modified=10622d5e">
+
+
 > Curated list of awesome browser extensions that protect your privacy.
 >
 
