@@ -21,6 +21,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
       - [Contain Twitter](#Contain-Twitter)
       - [Contain Amazon](#Contain-Amazon)
       - [Contain LinkedIn](#Contain-LinkedIn)
+      - [Switch container tabs](#Switch-container-tabs)
 
 ## Firefox
 
@@ -47,3 +48,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 #### Contain LinkedIn
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
+
+### Desktop Utils
+
+#### Switch container tabs
+  * [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search)
