@@ -14,29 +14,39 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ## Contents
 
 - [Firefox](#firefox)
-   - [Desktop](#transparency)
+   - [Desktop, generic](#Desktop,-generic)
       - [Firefox Multi-Account Containers](#Firefox-Multi-Account-Containers)
+      - [Containerise](#Containerise)
+   - [Desktop, scoped](#Desktop,-scoped)
       - [Contain Facebook](#Contain-Facebook)
       - [Contain Google](#Contain-Google)
       - [Contain Twitter](#Contain-Twitter)
       - [Contain Amazon](#Contain-Amazon)
       - [Contain LinkedIn](#Contain-LinkedIn)
-      - [Switch container tabs](#Switch-container-tabs)
+   - [Desktop Utils](#Desktop-Utils)
+      - [Switch containers](#Switch-containers)
+      - [Sync](#Sync)
 
 ## Firefox
 
-### Desktop
+### Desktop, generic
 
 #### Firefox Multi-Account Containers
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search)
   * [source](https://github.com/mozilla/multi-account-containers/#readme)
+
+#### Containerise
+* Gives you a config for manually mapping domains to containers
+* [add-on](https://addons.mozilla.org/en-US/firefox/addon/containerise/?src=search)
+* [source](https://github.com/kintesh/containerise)
+
+### Desktop, scoped
 
 #### Contain Facebook
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
 
 #### Contain Google
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=search)
-
 
 #### Contain Twitter
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/twitter-container/?src=search)
@@ -49,7 +59,17 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 #### Contain LinkedIn
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
 
+#### Contain Reddit
+  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit/?src=search)
+
 ### Desktop Utils
 
-#### Switch container tabs
-  * [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search)
+#### Switch containers
+  * [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search) opens a tab. in a new container.
+  * [click-to-contain](https://gitlab.com/NamingThingsIsHard/firefox/click-to-contain) makes a random containers for new links you click, from tracking-heavy sites like reddit.
+  * [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers/?src=search) gives you a sidebar for managing containerized tabs.
+
+#### Sync
+
+* [Container Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync/?src=search) will let you re-open tabs on other computers
+* 
