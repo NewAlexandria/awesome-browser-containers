@@ -20,6 +20,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
    - [Desktop, scoped](#Desktop,-scoped)
       - [Contain Facebook](#Contain-Facebook)
       - [Contain Google](#Contain-Google)
+      - [Contain Google](#Contain-Git)
       - [Contain Twitter](#Contain-Twitter)
       - [Contain Amazon](#Contain-Amazon)
       - [Contain LinkedIn](#Contain-LinkedIn)
@@ -53,11 +54,14 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
   * [source](httpsn://github.com/v1shwa/contain-twitter)
 
 #### Contain Amazon
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/amazon-container/?src=search)
-  * [compiled fork](https://github.com/NewAlexandria/contain-amazon)
+  * [add-on, by Krober](https://addons.mozilla.org/en-US/firefox/addon/contain-amazon/?src=search)
 
 #### Contain LinkedIn
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
+
+#### Contain Git
+and related apps
+  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-git/?src=search)
 
 #### Contain Reddit
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit/?src=search)
