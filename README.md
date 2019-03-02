@@ -1,14 +1,14 @@
-# Awesome Browser Containers
-
-<img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956959-64.png?modified=70aa6ec0"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956763-64.png?modified=4f5183da"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/996/996764-64.png?modified=59013156"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/977/977492-64.png?modified=619e9177"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1000/1000893-64.png?modified=68523f7c"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1001/1001077-64.png?modified=10622d5e">
-
+# Awesome Browser Containers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of awesome browser extensions that protect your privacy.
 >
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
+
+
+<img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956959-64.png?modified=70aa6ec0"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956763-64.png?modified=4f5183da"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/996/996764-64.png?modified=59013156"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/977/977492-64.png?modified=619e9177"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1000/1000893-64.png?modified=68523f7c"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1001/1001077-64.png?modified=10622d5e">
+
+
 
 
 ## Contents
