@@ -36,6 +36,13 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search)
   * [source](https://github.com/mozilla/multi-account-containers/#readme)
 
+### Multi-account with Container Transitions
+  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search)
+
+This tool lets you specify where a site should go when it's opened in a given container. I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
+
+> .!. this doesn't maintain privacy, but some apps won't work without it.
+
 #### Containerise
 * Gives you a config for manually mapping domains to containers
 * [add-on](https://addons.mozilla.org/en-US/firefox/addon/containerise/?src=search)
