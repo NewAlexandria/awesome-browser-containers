@@ -69,6 +69,10 @@ and related apps
 #### Contain Porn Sites
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/porn-container/?src=search)
 
+#### Contain VK
+  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/vk-container/?src=search)
+
+
 ### Desktop Utils
 
 #### Switch containers
