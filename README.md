@@ -66,6 +66,9 @@ and related apps
 #### Contain Reddit
   * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit/?src=search)
 
+#### Contain Porn Sites
+  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/porn-container/?src=search)
+
 ### Desktop Utils
 
 #### Switch containers
