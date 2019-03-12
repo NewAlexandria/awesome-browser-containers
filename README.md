@@ -41,7 +41,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 This tool lets you specify where a site should go when it's opened in a given container. I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
 
-> .!. this doesn't maintain privacy, but some apps won't work without it.
+> .!. this doesn't maintain privacy, but some apps will not work without talking to an SSO domain
 
 #### Containerise
 * Gives you a config for manually mapping domains to containers
