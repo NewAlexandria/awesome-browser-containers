@@ -1,4 +1,4 @@
-# Awesome Browser Containers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Browser Containers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome browser extensions that protect your privacy.
 >
@@ -10,84 +10,81 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 
 
-
 ## Contents
 
 - [Firefox](#firefox)
-   - [Desktop, generic](#Desktop,-generic)
-      - [Firefox Multi-Account Containers](#Firefox-Multi-Account-Containers)
-      - [Containerise](#Containerise)
-   - [Desktop, scoped](#Desktop,-scoped)
-      - [Contain Facebook](#Contain-Facebook)
-      - [Contain Google](#Contain-Google)
-      - [Contain Google](#Contain-Git)
-      - [Contain Twitter](#Contain-Twitter)
-      - [Contain Amazon](#Contain-Amazon)
-      - [Contain LinkedIn](#Contain-LinkedIn)
-   - [Desktop Utils](#Desktop-Utils)
-      - [Switch containers](#Switch-containers)
-      - [Sync](#Sync)
+  - [Desktop generic](#desktop-generic)
+  - [Desktop scoped](#desktop-scoped)
+  - [Desktop Utils](#desktop-utils)
 
 ## Firefox
 
-### Desktop, generic
+### Desktop generic
 
 #### Firefox Multi-Account Containers
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search)
-  * [source](https://github.com/mozilla/multi-account-containers/#readme)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search)
+- [source](https://github.com/mozilla/multi-account-containers/#readme)
 
-### Multi-account with Container Transitions
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search)
+#### Multi-account with Container Transitions
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search)
 
 This tool lets you specify where a site should go when it's opened in a given container. I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
 
 > .!. this doesn't maintain privacy, but some apps will not work without talking to an SSO domain
 
 #### Containerise
-* Gives you a config for manually mapping domains to containers
-* [add-on](https://addons.mozilla.org/en-US/firefox/addon/containerise/?src=search)
-* [source](https://github.com/kintesh/containerise)
+- Gives you a config for manually mapping domains to containers
+- [add-on](https://addons.mozilla.org/en-US/firefox/addon/containerise/?src=search)
+- [source](https://github.com/kintesh/containerise)
 
-### Desktop, scoped
+### Desktop scoped
 
 #### Contain Facebook
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
 
 #### Contain Google
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=search)
 
 #### Contain Twitter
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/twitter-container/?src=search)
-  * [source](httpsn://github.com/v1shwa/contain-twitter)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/twitter-container/?src=search)
+- [source](httpsn://github.com/v1shwa/contain-twitter)
 
 #### Contain Amazon
-  * [add-on, by Krober](https://addons.mozilla.org/en-US/firefox/addon/contain-amazon/?src=search)
+- [add-on, by Krober](https://addons.mozilla.org/en-US/firefox/addon/contain-amazon/?src=search)
 
 #### Contain LinkedIn
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
 
 #### Contain Git
 and related apps
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-git/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-git/?src=search)
 
 #### Contain Reddit
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit/?src=search)
 
 #### Contain Porn Sites
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/porn-container/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/porn-container/?src=search)
 
 #### Contain VK
-  * [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/vk-container/?src=search)
+- [Add-on page](https://addons.mozilla.org/en-US/firefox/addon/vk-container/?src=search)
 
 
 ### Desktop Utils
 
 #### Switch containers
-  * [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search) opens a tab. in a new container.
-  * [click-to-contain](https://gitlab.com/NamingThingsIsHard/firefox/click-to-contain) makes a random containers for new links you click, from tracking-heavy sites like reddit.
-  * [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers/?src=search) gives you a sidebar for managing containerized tabs.
+- [Switch Container Plus](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search) - Opens a tab. in a new container.
+- [click-to-contain](https://gitlab.com/NamingThingsIsHard/firefox/click-to-contain) - Makes a random containers for new links you click, from tracking-heavy sites like reddit.
+- [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers/?src=search) - Gives you a sidebar for managing containerized tabs.
 
 #### Sync
 
-* [Container Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync/?src=search) will let you re-open tabs on other computers
-* 
+- [Container Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync/?src=search) - Will let you re-open tabs on other computers.
+
+
+## Contribute
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+To the extent possible under law, NewAlexandria has waived all copyright and related or neighboring rights to this work.
