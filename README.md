@@ -46,7 +46,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Switch containers](https://addons.mozilla.org/en-US/firefox/addon/switch-container-plus/?src=search) - Opens a tab. in a new container.
 - [click-to-contain](https://gitlab.com/NamingThingsIsHard/firefox/click-to-contain) - Makes a random containers for new links you click, from tracking-heavy sites like reddit.
 - [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers/?src=search) - Gives you a sidebar for managing containerized tabs.
-
 - [Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync/?src=search) - Will let you re-open tabs on other computers.
 
 
@@ -54,3 +53,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## License
+
+To the extent possible under law, @NewAlexandria has waived all copyright and related or neighboring rights to this work.  It is intended for the Public Domain.
