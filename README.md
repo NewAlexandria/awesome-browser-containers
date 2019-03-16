@@ -25,8 +25,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 ### Desktop generic
 
-- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search) - ([source](https://github.com/mozilla/multi-account-containers/#readme)).
-- [Multi-account with Container Transitions](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search) - This tool lets you specify where a site should go when it's opened in a given container. I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search) - The plugin that started it all, from Mozilla ([source](https://github.com/mozilla/multi-account-containers/#readme)).
+- [Multi-account with Container Transitions](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search) - This tool lets you specify where a site should go when it's opened in a given container.  I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
 
 > :warning: this doesn't maintain privacy, but some apps will not work without talking to an SSO domain
 
@@ -35,7 +35,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 ### Desktop scoped
 
 - [Contain Facebook](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
+- [Contain Facebook - expanded](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search) - A forked plugin that contains many Facebook-family domains, CDNs, and other trackers.
 - [Contain Google](https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=search)
+- [Contain Google - with Integrations](https://addons.mozilla.org/en-US/firefox/addon/google-container/?src=search) - A derivative plugin that includes sites that require Google SSO integration to work correctly.
 - [Contain Twitter](https://addons.mozilla.org/en-US/firefox/addon/twitter-container/?src=search) - ([source](httpsn://github.com/v1shwa/contain-twitter)).
 - [Contain Amazon](https://addons.mozilla.org/en-US/firefox/addon/contain-amazon/?src=search)
 - [Contain LinkedIn](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container/?src=search)
