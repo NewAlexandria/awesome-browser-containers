@@ -38,7 +38,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Contain Facebook - expanded](https://addons.mozilla.org/en-US/firefox/addon/facebook-container-newalexndra/) - A forked plugin that contains many Facebook-family domains, CDNs, and other trackers.
 - [Contain Google](https://addons.mozilla.org/en-US/firefox/addon/google-container)
 - [Contain Google - with Integrations](https://addons.mozilla.org/en-US/firefox/addon/google-contain-integrations/) - A derivative plugin that includes sites that require Google SSO integration to work correctly.
-- [Contain Twitter](https://addons.mozilla.org/en-US/firefox/addon/twitter-container) - ([source](httpsn://github.com/v1shwa/contain-twitter)).
+- [Contain Twitter](https://addons.mozilla.org/en-US/firefox/addon/twitter-container) - ([source](https://github.com/v1shwa/contain-twitter)).
 - [Contain Amazon](https://addons.mozilla.org/en-US/firefox/addon/contain-amazon)
 - [Contain LinkedIn](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container)
 - [Contain Git](https://addons.mozilla.org/en-US/firefox/addon/contain-git)
