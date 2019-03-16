@@ -1,13 +1,17 @@
+<div align="center">
+  <div style="width: 384px; margin: auto;">
+	<a href="https://github.com/NewAlexandria/awesome-browser-containers">
+    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956959-64.png?modified=70aa6ec0"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956763-64.png?modified=4f5183da"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/996/996764-64.png?modified=59013156"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/977/977492-64.png?modified=619e9177"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1000/1000893-64.png?modified=68523f7c"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1001/1001077-64.png?modified=10622d5e">
+  </a>
+  </div>
+</div>
+
 # Awesome Browser Containers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome browser extensions that protect your privacy.
 >
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
-
-
-<img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956959-64.png?modified=70aa6ec0"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/956/956763-64.png?modified=4f5183da"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/996/996764-64.png?modified=59013156"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/977/977492-64.png?modified=619e9177"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1000/1000893-64.png?modified=68523f7c"><img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1001/1001077-64.png?modified=10622d5e">
-
 
 
 ## Contents
@@ -24,7 +28,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=search) - ([source](https://github.com/mozilla/multi-account-containers/#readme)).
 - [Multi-account with Container Transitions](https://addons.mozilla.org/en-US/firefox/addon/containers-with-transitions/?src=search) - This tool lets you specify where a site should go when it's opened in a given container. I.E. this may be a master work-around to permitting a site that depends on SSO to get the URL from the SSO domain.
 
-> .!. this doesn't maintain privacy, but some apps will not work without talking to an SSO domain
+> :warning: this doesn't maintain privacy, but some apps will not work without talking to an SSO domain
 
 - [Containerise](https://addons.mozilla.org/en-US/firefox/addon/containerise/?src=search) - Gives you a config for manually mapping domains to containers ([source](https://github.com/kintesh/containerise)).
 
