@@ -20,6 +20,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
   - [Desktop generic](#desktop-generic)
   - [Desktop scoped](#desktop-scoped)
   - [Desktop Utils](#desktop-utils)
+- [Chrome](#chrome)
+- [Safari](#safari)
+- [IE](#ie)
 
 ## Firefox
 
@@ -54,6 +57,19 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers) - Gives you a sidebar for managing containerized tabs.
 - [Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync) - Will let you re-open tabs on other computers.
 
+## Chrome
+
+The Chrome ecosystem does not have much support for containerizing cookies, yet.  
+
+You can do this now through [having multiple profiles](https://www.howtogeek.com/207614/everything-you-need-to-know-about-google-chromes-profile-switcher/), which is [a native feature of Chrome](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=en).  As such, Google itself will continue to know who you are and how to associate all of those accounts' cookies.  
+
+## Safari
+
+Apple has attempted to offer similar functionality automatically, in the form of [Intelligent Tracking Prevention](https://webkit.org/blog/8613/intelligent-tracking-prevention-2-1/).  There's not much configurable.
+
+## IE
+
+Doesn't seem to be any way, yet.
 
 ## Contribute
 
