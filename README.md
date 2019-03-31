@@ -22,7 +22,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
   - [Desktop Utils](#desktop-utils)
 - [Chrome](#chrome)
 - [Safari](#safari)
-- [IE](#ie)
+- [Internet Explorer](#internet-explorer)
 
 ## Firefox
 
@@ -67,7 +67,7 @@ You can do this now through [having multiple profiles](https://www.howtogeek.com
 
 Apple has attempted to offer similar functionality automatically, in the form of [Intelligent Tracking Prevention](https://webkit.org/blog/8613/intelligent-tracking-prevention-2-1/).  There's not much configurable.
 
-## IE
+## Internet Explorer
 
 Doesn't seem to be any way, yet.
 
